@@ -1,4 +1,9 @@
 
+1. remove ros framework from [Visual Inertial ORBSLAM](https://arxiv.org/abs/1610.05949) based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2).
+2. build with 'build.sh'.
+
+if you have any questions please contract fyjzjut@hotmail.com,i will reply to you when i am free. Thanks.
+                            
 An implementation of [Visual Inertial ORBSLAM](https://arxiv.org/abs/1610.05949) based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)
 
 Not bug-free. Not real-time. Just try the basic ideas of Visual Inertial SLAM in above paper. Welcome to improve it together!
